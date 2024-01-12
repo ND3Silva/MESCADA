@@ -1,0 +1,14 @@
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\bin\Debug\net8.0\Q17.exe
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\bin\Debug\net8.0\Q17.deps.json
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\bin\Debug\net8.0\Q17.runtimeconfig.json
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\bin\Debug\net8.0\Q17.dll
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\bin\Debug\net8.0\Q17.pdb
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\obj\Debug\net8.0\Q17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\obj\Debug\net8.0\Q17.AssemblyInfoInputs.cache
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\obj\Debug\net8.0\Q17.AssemblyInfo.cs
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\obj\Debug\net8.0\Q17.csproj.CoreCompileInputs.cache
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\obj\Debug\net8.0\Q17.dll
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\obj\Debug\net8.0\refint\Q17.dll
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\obj\Debug\net8.0\Q17.pdb
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\obj\Debug\net8.0\Q17.genruntimeconfig.cache
+C:\Users\navin\Desktop\MESCADA\Q17\Q17\obj\Debug\net8.0\ref\Q17.dll
