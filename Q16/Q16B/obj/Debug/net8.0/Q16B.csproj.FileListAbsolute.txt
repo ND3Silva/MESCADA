@@ -1,0 +1,14 @@
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\bin\Debug\net8.0\Q16B.exe
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\bin\Debug\net8.0\Q16B.deps.json
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\bin\Debug\net8.0\Q16B.runtimeconfig.json
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\bin\Debug\net8.0\Q16B.dll
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\bin\Debug\net8.0\Q16B.pdb
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\obj\Debug\net8.0\Q16B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\obj\Debug\net8.0\Q16B.AssemblyInfoInputs.cache
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\obj\Debug\net8.0\Q16B.AssemblyInfo.cs
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\obj\Debug\net8.0\Q16B.csproj.CoreCompileInputs.cache
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\obj\Debug\net8.0\Q16B.dll
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\obj\Debug\net8.0\refint\Q16B.dll
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\obj\Debug\net8.0\Q16B.pdb
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\obj\Debug\net8.0\Q16B.genruntimeconfig.cache
+C:\Users\navin\Desktop\MESCADA\Q16B\Q16B\obj\Debug\net8.0\ref\Q16B.dll
